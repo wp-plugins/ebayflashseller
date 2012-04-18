@@ -49,7 +49,8 @@ Our plugins are eBay compatible application certified.
 * Another change.
 
 == Upgrade Notice ==
-* 3.0 : first wordpress version
+= 3.0 =
+first wordpress version
 
 
 == Frequently Asked Questions ==
