@@ -59,7 +59,7 @@ first wordpress version
 
 == Parameters ==
 
-1. EBAY USERNAME : Your username on eBay, used to sell your items. (not store name-if you want to filter by store, use the eBaystore or eBayflashstore widget)
+1. EBAY USERNAME : Your username on eBay, used to sell your items. (If you ahev a eBay store, use the eBayflashstore or eBaystore widget)
 2. TYPES OF ITEM :  AllItemTypes, AuctionItemsOnly, FixedPricedItem
 3. SORT ORDER : Current price, time, bid count.
 4. NUMBER OF AUCTIONS : Number between 1 and 100
