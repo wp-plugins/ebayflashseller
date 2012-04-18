@@ -1,7 +1,7 @@
 === eBayflashseller ===
 Contributors: chrismis
 Donate link: http://www.edeetion.com
-Tags: auction, listing, ebay, river news
+Tags: auction, listing, ebay, carrousel
 Requires at least: 2.5
 Tested up to: 3.X
 Stable tag: 3.0
