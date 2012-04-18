@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== eBayflashserller ===
 Contributors: chrismis
 Donate link: http://www.edeetion.com
 Tags: auction, listing, ebay, river news
