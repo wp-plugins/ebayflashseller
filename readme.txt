@@ -3,8 +3,8 @@ Contributors: chrismis
 Donate link: http://www.edeetion.com
 Tags: auction, listing, ebay, carrousel
 Requires at least: 2.5
-Tested up to: 3.X
-Stable tag: 3.0
+Tested up to: 4.X
+Stable tag: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,10 +50,16 @@ Our plugins are eBay compatible application certified.
 * Full version for Wordpress.
 * Another change.
 
+
+= 4.0 =
+* Full version for Wordpress for wordpress 4.x
+
 == Upgrade Notice ==
 = 3.0 =
 first wordpress version
 
+= 4.0 =
+updated version for 4.x version
 
 == Frequently Asked Questions ==
 1. [FAQ : visit our FAQ on edeetion.com](http://www.edeetion.com/faq/modules-for-cms "eBayflashseller") 
