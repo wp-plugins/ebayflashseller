@@ -93,10 +93,11 @@ function ebay_flash_seller_get_form($form_values = array()){
              "square"       => "Rectangular (vertical: 250x300)",
              "skyscraper"   => "Skyscraper (vertical: 160x500)",
              "leaderboard"  => "Leaderboard (horizontal: 160x500)",
-             "big_panel"	=> "Big panel (horizontal: 800x590)",
-             "small_panel"	=> "Small panel (square: 600x590)");
-	
-	
+  			 "big_panel"   	=> "Big panel (horizontal: 800x590)",
+             "small_panel"	=>	"Small panel (square: 600x590)");
+
+
+                      
 
     $ebay_country_source_params = array("0"   => "USA",
                                         "2"   => "Canada",

@@ -6,14 +6,14 @@
 Plugin Name: Ebay Flash Seller
 Plugin URI: http://www.edeetion.com/ebayflashseller
 Description: 
-Version: 3.0
+Version: 4.0
 Author: edeetion
 Author URI: http://www.edeetion.com
 License: GPL v2
 */
 
 /**
- * Making it possible to use the application for version 2.6,2.7
+ * Making it possible to use the application for version 2.6,2.7 and more
  */
 if(!function_exists('plugins_url_internal_function')){
   function plugins_url_internal_function($path = '', $plugin = ''){
@@ -45,7 +45,7 @@ if(!function_exists('plugins_url_internal_function')){
 }
 
 /**
- * Making it possible to use the application for version 2.6,2.7
+ * Making it possible to use the application for version 2.6,2.7 and more
  */
 if(!function_exists('plugin_dir_url')){
   /**
